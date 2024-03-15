@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+<body>
+    <h2>Instituto Tecnológico de México, Campus Mexicali</h2>
+    <h2>Abarrotes Generales</h2>
+    <h2>Reporte de Adeudos por Estado</h2>
+    <div align="right">@fecha</div>
+    <p align="right">@pag</p>
+    <div>Estado: @estado</div>
+    <p></p>
+
+    <table class="border" border="1" style="width:100%">
+        <tr style="background-color: #D8D8D8">
+            <td style="width:10%">idAdeudo</td>
+            <td style="width:20%">fechaAdeudo</td>
+            <td style="width:10%">idCliente</td>
+            <td>Nombre</td>
+            <td>Apellido</td>
+            <td>Telefono</td>
+            <td>Adeudo</td>
+        </tr>
+        <tbody>
+            @filas
+            <tr>
+                <td style="border: 0px !important"></td>
+                <td style="border: 0px !important"></td>
+                <td style="border: 0px !important"></td>
+                <td style="border: 0px !important"></td>
+                <td style="border: 0px !important"></td>
+                <td align="right">Total:</td>
+                <td>@total</td>
+            </tr>
+        </tbody>
+    </table>
+
+
+</body>
+</html>

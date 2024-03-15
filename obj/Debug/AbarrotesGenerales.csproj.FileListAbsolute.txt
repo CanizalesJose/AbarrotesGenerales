@@ -1,0 +1,109 @@
+C:\Users\DELL\source\repos\AbarrotesGenerales\bin\Debug\AbarrotesGenerales.exe.config
+C:\Users\DELL\source\repos\AbarrotesGenerales\bin\Debug\AbarrotesGenerales.exe
+C:\Users\DELL\source\repos\AbarrotesGenerales\bin\Debug\AbarrotesGenerales.pdb
+C:\Users\DELL\source\repos\AbarrotesGenerales\obj\Debug\AbarrotesGenerales.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\AbarrotesGenerales\obj\Debug\AbarrotesGenerales.csproj.SuggestedBindingRedirects.cache
+C:\Users\DELL\source\repos\AbarrotesGenerales\obj\Debug\AbarrotesGenerales.MainMenu.resources
+C:\Users\DELL\source\repos\AbarrotesGenerales\obj\Debug\AbarrotesGenerales.Properties.Resources.resources
+C:\Users\DELL\source\repos\AbarrotesGenerales\obj\Debug\AbarrotesGenerales.csproj.GenerateResource.cache
+C:\Users\DELL\source\repos\AbarrotesGenerales\obj\Debug\AbarrotesGenerales.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\AbarrotesGenerales\obj\Debug\AbarrotesGenerales.exe
+C:\Users\DELL\source\repos\AbarrotesGenerales\obj\Debug\AbarrotesGenerales.pdb
+C:\Users\DELL\source\repos\AbarrotesGenerales\obj\Debug\AbarrotesGenerales.Catalogos.PantallaCategoria.resources
+C:\Users\DELL\source\repos\AbarrotesGenerales\obj\Debug\AbarrotesGenerales.MenuCatalogos.resources
+C:\Users\DELL\source\repos\AbarrotesGenerales\bin\Debug\PuntoVenta.accdb
+C:\Users\DELL\source\repos\AbarrotesGenerales\obj\Debug\AbarrotesGenerales.Catalogos.PantallaProveedor.resources
+C:\Users\DELL\source\repos\AbarrotesGenerales\obj\Debug\AbarrotesGenerales.Catalogos.PantallaCliente.resources
+C:\Users\DELL\source\repos\AbarrotesGenerales\obj\Debug\AbarrotesGenerales.Catalogos.PantallaEntrada.resources
+C:\Users\DELL\source\repos\AbarrotesGenerales\obj\Debug\AbarrotesGenerales.Catalogos.PantallaVenta.resources
+C:\Users\DELL\source\repos\AbarrotesGenerales\obj\Debug\AbarrotesGenerales.Mantenimientos.MantenimientoArticulo.resources
+C:\Users\DELL\source\repos\AbarrotesGenerales\obj\Debug\AbarrotesGenerales.Menus.MenuMantenimientos.resources
+C:\Users\DELL\source\repos\AbarrotesGenerales\obj\Debug\AbarrotesGenerales.Mantenimientos.MantenimientoArticuloProveedor.resources
+C:\Users\DELL\source\repos\AbarrotesGenerales\obj\Debug\AbarrotesGenerales.Mantenimientos.MantenimientoDetalleEntrada.resources
+C:\Users\DELL\source\repos\AbarrotesGenerales\obj\Debug\AbarrotesGenerales.Mantenimientos.MantenimientoAdeudo.resources
+C:\Users\DELL\source\repos\AbarrotesGenerales\obj\Debug\AbarrotesGenerales.Mantenimientos.MantenimientoDetalleVenta.resources
+C:\Users\DELL\source\repos\AbarrotesGenerales\obj\Debug\AbarrotesGenerales.Mantenimientos.MantenimientoInventario.resources
+C:\Users\DELL\Documents\Trabajos Universidad\Sexto Semestre\Sistemas\Programa\AbarrotesGenerales\bin\Debug\PuntoVenta.accdb
+C:\Users\DELL\Documents\Trabajos Universidad\Sexto Semestre\Sistemas\Programa\AbarrotesGenerales\bin\Debug\AbarrotesGenerales.exe.config
+C:\Users\DELL\Documents\Trabajos Universidad\Sexto Semestre\Sistemas\Programa\AbarrotesGenerales\bin\Debug\AbarrotesGenerales.exe
+C:\Users\DELL\Documents\Trabajos Universidad\Sexto Semestre\Sistemas\Programa\AbarrotesGenerales\bin\Debug\AbarrotesGenerales.pdb
+C:\Users\DELL\Documents\Trabajos Universidad\Sexto Semestre\Sistemas\Programa\AbarrotesGenerales\obj\Debug\AbarrotesGenerales.csproj.AssemblyReference.cache
+C:\Users\DELL\Documents\Trabajos Universidad\Sexto Semestre\Sistemas\Programa\AbarrotesGenerales\obj\Debug\AbarrotesGenerales.csproj.SuggestedBindingRedirects.cache
+C:\Users\DELL\Documents\Trabajos Universidad\Sexto Semestre\Sistemas\Programa\AbarrotesGenerales\obj\Debug\AbarrotesGenerales.Catalogos.PantallaCategoria.resources
+C:\Users\DELL\Documents\Trabajos Universidad\Sexto Semestre\Sistemas\Programa\AbarrotesGenerales\obj\Debug\AbarrotesGenerales.Catalogos.PantallaCliente.resources
+C:\Users\DELL\Documents\Trabajos Universidad\Sexto Semestre\Sistemas\Programa\AbarrotesGenerales\obj\Debug\AbarrotesGenerales.Catalogos.PantallaEntrada.resources
+C:\Users\DELL\Documents\Trabajos Universidad\Sexto Semestre\Sistemas\Programa\AbarrotesGenerales\obj\Debug\AbarrotesGenerales.Catalogos.PantallaProveedor.resources
+C:\Users\DELL\Documents\Trabajos Universidad\Sexto Semestre\Sistemas\Programa\AbarrotesGenerales\obj\Debug\AbarrotesGenerales.Catalogos.PantallaVenta.resources
+C:\Users\DELL\Documents\Trabajos Universidad\Sexto Semestre\Sistemas\Programa\AbarrotesGenerales\obj\Debug\AbarrotesGenerales.Mantenimientos.MantenimientoAdeudo.resources
+C:\Users\DELL\Documents\Trabajos Universidad\Sexto Semestre\Sistemas\Programa\AbarrotesGenerales\obj\Debug\AbarrotesGenerales.Mantenimientos.MantenimientoArticulo.resources
+C:\Users\DELL\Documents\Trabajos Universidad\Sexto Semestre\Sistemas\Programa\AbarrotesGenerales\obj\Debug\AbarrotesGenerales.Mantenimientos.MantenimientoArticuloProveedor.resources
+C:\Users\DELL\Documents\Trabajos Universidad\Sexto Semestre\Sistemas\Programa\AbarrotesGenerales\obj\Debug\AbarrotesGenerales.Mantenimientos.MantenimientoDetalleEntrada.resources
+C:\Users\DELL\Documents\Trabajos Universidad\Sexto Semestre\Sistemas\Programa\AbarrotesGenerales\obj\Debug\AbarrotesGenerales.Mantenimientos.MantenimientoDetalleVenta.resources
+C:\Users\DELL\Documents\Trabajos Universidad\Sexto Semestre\Sistemas\Programa\AbarrotesGenerales\obj\Debug\AbarrotesGenerales.Mantenimientos.MantenimientoInventario.resources
+C:\Users\DELL\Documents\Trabajos Universidad\Sexto Semestre\Sistemas\Programa\AbarrotesGenerales\obj\Debug\AbarrotesGenerales.MainMenu.resources
+C:\Users\DELL\Documents\Trabajos Universidad\Sexto Semestre\Sistemas\Programa\AbarrotesGenerales\obj\Debug\AbarrotesGenerales.MenuCatalogos.resources
+C:\Users\DELL\Documents\Trabajos Universidad\Sexto Semestre\Sistemas\Programa\AbarrotesGenerales\obj\Debug\AbarrotesGenerales.Menus.MenuMantenimientos.resources
+C:\Users\DELL\Documents\Trabajos Universidad\Sexto Semestre\Sistemas\Programa\AbarrotesGenerales\obj\Debug\AbarrotesGenerales.Properties.Resources.resources
+C:\Users\DELL\Documents\Trabajos Universidad\Sexto Semestre\Sistemas\Programa\AbarrotesGenerales\obj\Debug\AbarrotesGenerales.csproj.GenerateResource.cache
+C:\Users\DELL\Documents\Trabajos Universidad\Sexto Semestre\Sistemas\Programa\AbarrotesGenerales\obj\Debug\AbarrotesGenerales.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Documents\Trabajos Universidad\Sexto Semestre\Sistemas\Programa\AbarrotesGenerales\obj\Debug\AbarrotesGenerales.exe
+C:\Users\DELL\Documents\Trabajos Universidad\Sexto Semestre\Sistemas\Programa\AbarrotesGenerales\obj\Debug\AbarrotesGenerales.pdb
+C:\Users\DELL\Documents\Trabajos Universidad\Sexto Semestre\Sistemas\Programa\AbarrotesGenerales\bin\Debug\itextsharp.dll
+C:\Users\DELL\Documents\Trabajos Universidad\Sexto Semestre\Sistemas\Programa\AbarrotesGenerales\bin\Debug\itextsharp.xmlworker.dll
+C:\Users\DELL\Documents\Trabajos Universidad\Sexto Semestre\Sistemas\Programa\AbarrotesGenerales\bin\Debug\itextsharp.xml
+C:\Users\DELL\Documents\Trabajos Universidad\Sexto Semestre\Sistemas\Programa\AbarrotesGenerales\obj\Debug\AbarrotesGenerales.Reportes.MenuReportes.resources
+C:\Users\DELL\Documents\Trabajos Universidad\Sexto Semestre\Sistemas\Programa\AbarrotesGenerales\obj\Debug\AbarrotesGenerales.Reportes.ReporteAdeudosEstado.resources
+C:\Users\DELL\Documents\Trabajos Universidad\Sexto Semestre\Sistemas\Programa\AbarrotesGenerales\obj\Debug\AbarrotesGenerales.csproj.CopyComplete
+C:\Users\DELL\Documents\Trabajos Universidad\Sexto Semestre\Sistemas\Programa\AbarrotesGenerales\obj\Debug\AbarrotesGenerales.Reportes.ReporteInventarioCategoria.resources
+C:\Users\DELL\Documents\Trabajos Universidad\Sexto Semestre\Sistemas\Programa\AbarrotesGenerales\obj\Debug\AbarrotesGenerales.Reportes.ReporteVentasPeriodo.resources
+C:\Users\DELL\Documents\Trabajos Universidad\Sexto Semestre\Sistemas\Programa\AbarrotesGenerales\obj\Debug\AbarrotesGenerales.Reportes.ReporteEntradasPeriodo.resources
+C:\Users\DELL\Documents\Trabajos Universidad\Sexto Semestre\Sistemas\Programa\AbarrotesGenerales\obj\Debug\AbarrotesGenerales.Consultas.ConsultaArticulosEntrada.resources
+C:\Users\DELL\Documents\Trabajos Universidad\Sexto Semestre\Sistemas\Programa\AbarrotesGenerales\obj\Debug\AbarrotesGenerales.Consultas.ConsultaArticulosVenta.resources
+C:\Users\DELL\Documents\Trabajos Universidad\Sexto Semestre\Sistemas\Programa\AbarrotesGenerales\obj\Debug\AbarrotesGenerales.Consultas.ConsultaProveedoresArticulo.resources
+C:\Users\DELL\Documents\Trabajos Universidad\Sexto Semestre\Sistemas\Programa\AbarrotesGenerales\obj\Debug\AbarrotesGenerales.VentaGeneral.resources
+C:\Users\DELL\Documents\Trabajos Universidad\Sexto Semestre\Sistemas\Programa\AbarrotesGenerales\bin\Debug\AbarrotesGenerales.exe.manifest
+C:\Users\DELL\Documents\Trabajos Universidad\Sexto Semestre\Sistemas\Programa\AbarrotesGenerales\bin\Debug\AbarrotesGenerales.application
+C:\Users\DELL\Documents\Trabajos Universidad\Sexto Semestre\Sistemas\Programa\AbarrotesGenerales\obj\Debug\AbarrotesGenerales.exe.manifest
+C:\Users\DELL\Documents\Trabajos Universidad\Sexto Semestre\Sistemas\Programa\AbarrotesGenerales\obj\Debug\AbarrotesGenerales.application
+C:\Users\jose-\Desktop\AbarrotesGenerales\bin\Debug\PuntoVenta.accdb
+C:\Users\jose-\Desktop\AbarrotesGenerales\bin\Debug\AbarrotesGenerales.exe.config
+C:\Users\jose-\Desktop\AbarrotesGenerales\bin\Debug\AbarrotesGenerales.exe.manifest
+C:\Users\jose-\Desktop\AbarrotesGenerales\bin\Debug\AbarrotesGenerales.application
+C:\Users\jose-\Desktop\AbarrotesGenerales\bin\Debug\AbarrotesGenerales.exe
+C:\Users\jose-\Desktop\AbarrotesGenerales\bin\Debug\AbarrotesGenerales.pdb
+C:\Users\jose-\Desktop\AbarrotesGenerales\bin\Debug\itextsharp.dll
+C:\Users\jose-\Desktop\AbarrotesGenerales\bin\Debug\itextsharp.xmlworker.dll
+C:\Users\jose-\Desktop\AbarrotesGenerales\bin\Debug\itextsharp.xml
+C:\Users\jose-\Desktop\AbarrotesGenerales\obj\Debug\AbarrotesGenerales.csproj.AssemblyReference.cache
+C:\Users\jose-\Desktop\AbarrotesGenerales\obj\Debug\AbarrotesGenerales.csproj.SuggestedBindingRedirects.cache
+C:\Users\jose-\Desktop\AbarrotesGenerales\obj\Debug\AbarrotesGenerales.Catalogos.PantallaCategoria.resources
+C:\Users\jose-\Desktop\AbarrotesGenerales\obj\Debug\AbarrotesGenerales.Catalogos.PantallaCliente.resources
+C:\Users\jose-\Desktop\AbarrotesGenerales\obj\Debug\AbarrotesGenerales.Catalogos.PantallaEntrada.resources
+C:\Users\jose-\Desktop\AbarrotesGenerales\obj\Debug\AbarrotesGenerales.Catalogos.PantallaProveedor.resources
+C:\Users\jose-\Desktop\AbarrotesGenerales\obj\Debug\AbarrotesGenerales.Catalogos.PantallaVenta.resources
+C:\Users\jose-\Desktop\AbarrotesGenerales\obj\Debug\AbarrotesGenerales.Consultas.ConsultaArticulosEntrada.resources
+C:\Users\jose-\Desktop\AbarrotesGenerales\obj\Debug\AbarrotesGenerales.Consultas.ConsultaArticulosVenta.resources
+C:\Users\jose-\Desktop\AbarrotesGenerales\obj\Debug\AbarrotesGenerales.Consultas.ConsultaProveedoresArticulo.resources
+C:\Users\jose-\Desktop\AbarrotesGenerales\obj\Debug\AbarrotesGenerales.Mantenimientos.MantenimientoAdeudo.resources
+C:\Users\jose-\Desktop\AbarrotesGenerales\obj\Debug\AbarrotesGenerales.Mantenimientos.MantenimientoArticulo.resources
+C:\Users\jose-\Desktop\AbarrotesGenerales\obj\Debug\AbarrotesGenerales.Mantenimientos.MantenimientoArticuloProveedor.resources
+C:\Users\jose-\Desktop\AbarrotesGenerales\obj\Debug\AbarrotesGenerales.Mantenimientos.MantenimientoDetalleEntrada.resources
+C:\Users\jose-\Desktop\AbarrotesGenerales\obj\Debug\AbarrotesGenerales.Mantenimientos.MantenimientoDetalleVenta.resources
+C:\Users\jose-\Desktop\AbarrotesGenerales\obj\Debug\AbarrotesGenerales.Mantenimientos.MantenimientoInventario.resources
+C:\Users\jose-\Desktop\AbarrotesGenerales\obj\Debug\AbarrotesGenerales.MainMenu.resources
+C:\Users\jose-\Desktop\AbarrotesGenerales\obj\Debug\AbarrotesGenerales.MenuCatalogos.resources
+C:\Users\jose-\Desktop\AbarrotesGenerales\obj\Debug\AbarrotesGenerales.Menus.MenuMantenimientos.resources
+C:\Users\jose-\Desktop\AbarrotesGenerales\obj\Debug\AbarrotesGenerales.Reportes.MenuReportes.resources
+C:\Users\jose-\Desktop\AbarrotesGenerales\obj\Debug\AbarrotesGenerales.Properties.Resources.resources
+C:\Users\jose-\Desktop\AbarrotesGenerales\obj\Debug\AbarrotesGenerales.Reportes.ReporteAdeudosEstado.resources
+C:\Users\jose-\Desktop\AbarrotesGenerales\obj\Debug\AbarrotesGenerales.Reportes.ReporteEntradasPeriodo.resources
+C:\Users\jose-\Desktop\AbarrotesGenerales\obj\Debug\AbarrotesGenerales.Reportes.ReporteInventarioCategoria.resources
+C:\Users\jose-\Desktop\AbarrotesGenerales\obj\Debug\AbarrotesGenerales.Reportes.ReporteVentasPeriodo.resources
+C:\Users\jose-\Desktop\AbarrotesGenerales\obj\Debug\AbarrotesGenerales.VentaGeneral.resources
+C:\Users\jose-\Desktop\AbarrotesGenerales\obj\Debug\AbarrotesGenerales.csproj.GenerateResource.cache
+C:\Users\jose-\Desktop\AbarrotesGenerales\obj\Debug\AbarrotesGenerales.csproj.CoreCompileInputs.cache
+C:\Users\jose-\Desktop\AbarrotesGenerales\obj\Debug\AbarrotesGenerales.exe.manifest
+C:\Users\jose-\Desktop\AbarrotesGenerales\obj\Debug\AbarrotesGenerales.application
+C:\Users\jose-\Desktop\AbarrotesGenerales\obj\Debug\AbarrotesGenerales.csproj.CopyComplete
+C:\Users\jose-\Desktop\AbarrotesGenerales\obj\Debug\AbarrotesGenerales.exe
+C:\Users\jose-\Desktop\AbarrotesGenerales\obj\Debug\AbarrotesGenerales.pdb

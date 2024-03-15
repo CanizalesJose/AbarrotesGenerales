@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<body>
+    <h2>Instituto Tecnológico de México, Campus Mexicali</h2>
+    <h2>Abarrotes Generales</h2>
+    <h2>Reporte de Entradas por Periodo</h2>
+    <div align="right">@fechareporte</div>
+    <p align="right">@pag</p>
+    <div>Periodo: @fechauno - @fechados</div>
+    <p> </p>
+
+    <table class="border" border="1" style="width:100%">
+        <tr style="background-color: #D8D8D8">
+            <td style="width:25%">idEntrada</td>
+            <td style="width:25%">fechaEntrada</td>
+            <td style="width:25%">noArticulos</td>
+            <td style="width:25%">Subtotal</td>
+        </tr>
+        <tbody>
+            @filas
+            <tr>
+                <td style="border: 0px !important"></td>
+                <td style="border: 0px !important"></td>
+                <td align="right">Total:</td>
+                <td>@total</td>
+            </tr>
+        </tbody>
+    </table>
+    
+</body>
+</html>

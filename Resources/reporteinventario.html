@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<body>
+    <h2>Instituto Tecnológico de México, Campus Mexicali</h2>
+    <h2>Abarrotes Generales</h2>
+    <h2>Reporte de Inventario por Categoría</h2>
+    <div align="right">@fecha</div>
+    <p align="right">@pag</p>
+    <div>Clave de Categoria: @idcat | Nombre de Categoria: @nomcat</div>
+    <p></p>
+
+    <table class="border" border="1" style="width:100%">
+        <tr style="background-color: #D8D8D8">
+            <td style="width:5%">idArticulo</td>
+            <td>nomArticulo</td>
+            <td style="width:5%">idProveedor</td>
+            <td>nomProveedor</td>
+            <td style="width:5%">Cantidad</td>
+            <td style="width:10%">Precio</td>
+        </tr>
+        <tbody>
+            @filas
+            <tr>
+                <td style="border: 0px !important"></td>
+                <td style="border: 0px !important"></td>
+                <td style="border: 0px !important"></td>
+                <td style="border: 0px !important"></td>
+                <td align="right">Valor Total de Inventario:</td>
+                <td>@total</td>
+            </tr>
+        </tbody>
+    </table>
+    
+</body>
+</html>
